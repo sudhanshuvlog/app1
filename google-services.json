@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "310124152078",
+    "project_id": "hack-6de33",
+    "storage_bucket": "hack-6de33.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:310124152078:android:497617752dbe5ed125035f",
+        "android_client_info": {
+          "package_name": "com.example.dataApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "310124152078-3bu20jb22m5f1065hkluqq9u25s1d67b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1erKXUWYkCNPGnFp11aod0fg_DHdx1mE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "310124152078-3bu20jb22m5f1065hkluqq9u25s1d67b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
